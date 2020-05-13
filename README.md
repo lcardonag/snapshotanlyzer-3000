@@ -7,7 +7,7 @@ This project is a demo of using Boto3 to get AWS Instance snapshots.
 
 ## Configuring 
 
-shotty used de configuration created by AWS CLI
+shotty uses the configuration created by AWS CLI, you must have a AWS account with programatically access and permisions to manage EC2
 
 `aws configure --profile shotty`
 
