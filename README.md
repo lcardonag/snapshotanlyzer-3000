@@ -13,4 +13,7 @@ shotty uses the configuration created by AWS CLI, you must have a AWS account wi
 
 ## Running
 
-pipenv run python shotty/shotty.py
+`pipenv run python shotty/shotty.py <command> <--project=PROJECT_NAME>`
+
+*command* is list, start, stop
+*project* is optional
