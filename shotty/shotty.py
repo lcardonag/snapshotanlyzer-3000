@@ -177,6 +177,7 @@ def start_instances(project):
 
     for i in instances:
         print("Terminating Instance :  {0} ".format(i.id))
+        i.terminate()
                 
     return
 
