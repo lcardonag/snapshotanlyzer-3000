@@ -5,6 +5,7 @@ verify_ssl = true
 
 [dev-packages]
 iphyton = "*"
+setuptools = "*"
 
 [packages]
 boto3 = "*"
